@@ -1,0 +1,3 @@
+# Project exclude paths
+/AlimamaServer/node_modules/
+/node_modules/
